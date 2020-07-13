@@ -1,4 +1,7 @@
-### Hi there 👋
+### Mbote na bino 👋🏿️
+✊🏿️ I am **Igor Visi**, a computer engineer from DRCongo 🇨🇩️.
+
+🤜🏿️ [igorvisi.com](https://igorvisi.com) 🤛🏿️
 
 <!--
 **igorvisi/igorvisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
