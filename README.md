@@ -1,8 +1,10 @@
-# Mbote na bino 👋🏿️
 <img src="https://raw.githubusercontent.com/igorvisi/igorvisi/master/draw.jpg" alt="banner with draw of Igor Visi">
 
-
+# Mbote na bino 👋🏿️
 ✊🏿️ I am **Igor Visi**, a computer engineer from DRCongo 🇨🇩️.
 
-## More in my website
+## My Github stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=igorvisi&show_icons=true)
+
+## More about in my website
 🤜🏿️ [igorvisi.com](https://igorvisi.com) 🤛🏿️
