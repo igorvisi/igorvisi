@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/igorvisi/igorvisi/master/draw.jpg" alt="banner with draw of Igor Visi">
 
 # Mbote na bino 👋🏿️
+[![Visits Badge](https://badges.pufler.dev/visits/igorvisi/git-badges)](https://badges.pufler.dev)
 ✊🏿️ I am **Igor Visi**, a computer engineer from DRCongo 🇨🇩️.
 
 ## My Github stats
