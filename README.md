@@ -1,8 +1,10 @@
 <img align="right" src="https://raw.githubusercontent.com/igorvisi/igorvisi/master/draw.png" alt="Illustration of Igor Visi with binary background like in matrix " width=350px >
 
 # Mbote na bino 👋🏿️
-✊🏿️ I am **Igor Visi**, a computer engineer from DRCongo 🇨🇩️.
 
+## ✊🏿️ I am **Igor Visi**
+- Computer engineer from DRCongo 🇨🇩️.
+- Hobby artist
 ## My Github stats
 [![Visits Badge](https://badges.pufler.dev/visits/igorvisi/git-badges)](https://badges.pufler.dev)
 
