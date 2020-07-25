@@ -9,5 +9,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=igorvisi&show_icons=true)
 
 
-## More about in my website
+## How to reach me ?
+Go to
 🤜🏿️ [igorvisi.com](https://igorvisi.com) 🤛🏿️
