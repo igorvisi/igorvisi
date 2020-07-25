@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/igorvisi/igorvisi/master/draw.jpg" alt="banner with draw of Igor Visi">
+<img align="right" src="https://raw.githubusercontent.com/igorvisi/igorvisi/master/draw.jpg" alt="Illustration of Igor Visi with binary background like in matrix " width=350px >
 
 # Mbote na bino 👋🏿️
 ✊🏿️ I am **Igor Visi**, a computer engineer from DRCongo 🇨🇩️.
