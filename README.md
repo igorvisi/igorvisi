@@ -2,7 +2,7 @@
 
 # Mbote na bino 👋🏿️
 
-## ✊🏿️ I am **Igor Visi**
+## ✊🏿️ I am **Igor Visi** 💙
 - Computer engineer from DRCongo 🇨🇩️.
 - Hobby artist
 ## My Github stats
